@@ -1,1 +1,1 @@
-# pcrpersonalblog url is:  https://purna-chandra-reddy.github.io/pcrpersonalblog/profile.html
+# pcrpersonalblog url is:  https://purna-chandra-reddy.github.io/blockcoins/profile.html
